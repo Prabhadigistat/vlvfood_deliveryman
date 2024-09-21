@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "883251067956",
+    "project_id": "vlv-food",
+    "storage_bucket": "vlv-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883251067956:android:727115cf70750677fc1e61",
+        "android_client_info": {
+          "package_name": "com.vlv.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvmUTA-VOX0l1750Py6h0jVPppMsHUyp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883251067956:android:aa79d4e86532b790fc1e61",
+        "android_client_info": {
+          "package_name": "com.vlv.restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvmUTA-VOX0l1750Py6h0jVPppMsHUyp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
